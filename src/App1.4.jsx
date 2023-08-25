@@ -55,7 +55,7 @@ const Content = (props) => {
       })
     
         return (
-            <p>Number of exercises: {ok} </p>
+            <p> {ok} </p>
         );
         };
 
